@@ -12,8 +12,8 @@ Esse repositório é para controle de versão do material de capacitação de pr
 8. Tuplas, Listas e Mutabilidade 
 9. Funções e Abstração 
 10. Recursão 
-11. Dicionários *
-12. Módulos *
+11. Dicionários 
+12. Módulos e Bibliotecas
 13. Arquivos *
 14. Exceções *
 
