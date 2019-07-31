@@ -14,7 +14,7 @@ Esse repositório é para controle de versão do material de capacitação de pr
 10. Recursão 
 11. Dicionários 
 12. Módulos e Bibliotecas
-13. Arquivos *
+13. Arquivos 
 14. Exceções *
 
 O * representa seções que ainda não estão feitas ou completas.
