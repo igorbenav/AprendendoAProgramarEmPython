@@ -16,5 +16,7 @@ Esse repositório é para controle de versão do material de capacitação de pr
 12. Módulos e Bibliotecas
 13. Arquivos 
 14. Exceções *
+15. Padrões, Antipadrões e Boas Práticas *
+16. Soluções dos Exercícios
 
 O * representa seções que ainda não estão feitas ou completas.
