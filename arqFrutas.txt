@@ -1,0 +1,3 @@
+banana : 1
+maçã : 2
+melão : 3
