@@ -2,21 +2,23 @@
 Esse repositório é para controle de versão do material de capacitação de programação da Computer Society do ramo do IEEE da UFRJ.
 
 # Tabela de Conteúdos:
-1. Olá, Mundo  
-2. Variáveis e Tipos  
-3. Operadores e Input do Usuário  
-4. Ramificação de Programas 
-5. String Slicing 
-6. Os Loops for  
-7. Os Loops while 
-8. Tuplas, Listas e Mutabilidade 
-9. Funções e Abstração 
-10. Recursão 
-11. Dicionários 
-12. Módulos e Bibliotecas
-13. Arquivos 
-14. Exceções *
-15. Padrões, Antipadrões e Boas Práticas *
-16. Soluções dos Exercícios *
-
+<ol start=0>
+    <li>Introdução</li>
+    <li>Olá, Mundo</li>
+    <li>Variáveis e Tipos</li>
+    <li>Operadores e Input do Usuário</li>
+    <li>Ramificação de Programas</li>
+    <li>String Slicing</li>
+    <li>Os Loops for</li>
+    <li>Os Loops while</li>
+    <li>Tuplas, Listas e Mutabilidade</li>
+    <li>Funções e Abstração</li>
+    <li>Recursão</li>
+    <li>Dicionários</li>
+    <li>Módulos e Bibliotecas</li>
+    <li>Arquivos</li>
+    <li>Exceções</li>
+    <li>Soluções dos Exercícios</li>
+    <li>Glossário *</li>
+</ol>
 O * representa seções que ainda não estão feitas ou completas.
