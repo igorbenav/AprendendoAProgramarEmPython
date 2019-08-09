@@ -19,6 +19,5 @@ Esse repositório é para controle de versão do material de capacitação de pr
     <li>Arquivos</li>
     <li>Exceções</li>
     <li>Soluções dos Exercícios</li>
-    <li>Glossário *</li>
+    <li>Glossário</li>
 </ol>
-O * representa seções que ainda não estão feitas ou completas.
