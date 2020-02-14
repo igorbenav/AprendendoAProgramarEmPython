@@ -1,5 +1,5 @@
-# AprendendoAProgramarEmPythonIEEE
-Esse repositório é para controle de versão do material de capacitação de programação da Computer Society do ramo do IEEE da UFRJ.
+# AprendendoAProgramarEmPython
+Esse repositório é para controle de versão de um material de capacitação de programação.
 
 # Tabela de Conteúdos:
 <ol start=0>
@@ -21,3 +21,6 @@ Esse repositório é para controle de versão do material de capacitação de pr
     <li>Soluções dos Exercícios</li>
     <li>Glossário</li>
 </ol>
+
+# Volume 2
+Um volume 2 desse livro está sendo feito, abordando Orientação a Objetos, Algoritmos e Estruturas de dados entre outros tópicos de Ciência da Computação. Link para o repositório do segundo: https://github.com/igormagalhaesr/ProgramandoSegundoCurso
